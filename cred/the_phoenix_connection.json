@@ -1,0 +1,7 @@
+{
+  "dbname": "the_phoenix",
+  "host":"veritas.c3byxptpwzdt.us-east-1.redshift.amazonaws.com",
+  "port": "5439",
+  "user": "mypizza",
+  "password": "ocdtCqwd2wdzCFkRDZjFotVe"
+}

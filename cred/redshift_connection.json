@@ -1,0 +1,7 @@
+{
+  "dbname": "analytics",
+  "host":"veritas.c3byxptpwzdt.us-east-1.redshift.amazonaws.com",
+  "port": "5439",
+  "user": "bizint",
+  "password": "qYqeHBHvgeZjZiCsnmoi3Zfr"
+}
